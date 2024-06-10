@@ -8,7 +8,7 @@
 
 ``` shell
 git clone https://github.com/kdshola/foundry-fundme.git
-cd foundry-fund-me-f23
+cd foundry-fund-me
 forge build
 ```
 
